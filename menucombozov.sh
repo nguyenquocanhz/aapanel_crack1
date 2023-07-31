@@ -67,7 +67,7 @@ function start_menu(){
     clear
     purple " chào mừng bạn đến với tool aapanel."
     purple " zalo     : Minhtri1903"
-    purple " facebook : https://www.facebook.com/MMO.NongCong"
+    purple " facebook : https://www.facebook.com/profile.php?id=5236984"
     yellow " ————————————————————————————————————————————————"
     green " 1. cài đặt aapanel bản gốc( cho centos)"
     green " 2. block speedtest trên vps chạy VPN"
